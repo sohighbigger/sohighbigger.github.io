@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Yu</title>
+    <link>http://sohighbigger.github.io/</link>
+    
+    <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>放弃不难，但坚持一定很酷</description>
+    <pubDate>Sat, 18 Jan 2020 08:55:49 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>致自己</title>
+      <link>http://sohighbigger.github.io/posts/https:/coderyu.wang/posts/self.html.html</link>
+      <guid>http://sohighbigger.github.io/posts/https:/coderyu.wang/posts/self.html.html</guid>
+      <pubDate>Fri, 17 Jan 2020 16:00:00 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;2020年关键词：胜&lt;/p&gt;
+
+        
+      
+      </description>
+      
+      
+      <content:encoded><![CDATA[<p>2020年关键词：胜</p>]]></content:encoded>
+      
+      <comments>http://sohighbigger.github.io/posts/https:/coderyu.wang/posts/self.html.html#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
